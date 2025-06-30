@@ -1,4 +1,4 @@
-# Penetration-Testing-Activity-on-Devel-Machine
+# Penetration Testing Activity on "_Devel_" Machine
 
 Questa repository contiene la documentazione dell'attività di penetration testing svolta sulla macchina **Devel** della piattaforma Hack The Box.  
 Sono riportate le fasi di enumerazione, sfruttamento delle vulnerabilità e privilege escalation.  
